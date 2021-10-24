@@ -4,7 +4,7 @@ using System.Net.Sockets;
 
 namespace UDP_Async_Client
 {
-    class Program
+    class ClientFile
     {
         static void Main(string[] args)
         {
